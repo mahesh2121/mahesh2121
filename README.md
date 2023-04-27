@@ -1,15 +1,15 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahesh Gaikwad</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/9e/46/859e4681f9891e4f3dfa1f4489fe3588.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2086082/screenshots/8939224/media/6c59a7fd5b49d2f8607efeaaaf25213e.gif">
 
 
 
 - 🔭 I’m currently working on **SRE**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Go and Python**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Kubernetes , AWS**
 
 - 📫 How to reach me **maheshgaikwad128@gmail.com**
 
