@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **SRE**
+- 🔭 I’m currently working as **SRE** role
 
 - 🌱 I’m currently learning **Go and Python**
 
